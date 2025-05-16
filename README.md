@@ -1,2 +1,3 @@
 # To-do-list
-first github repository
+first github repository,
+Author-Adarsh Baghel
